@@ -1,3 +1,7 @@
 Hello 
 
+<<<<<<< HEAD
 this is Dianna 
+=======
+this is Dianna
+>>>>>>> version2
